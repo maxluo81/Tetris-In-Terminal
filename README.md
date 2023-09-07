@@ -1,4 +1,4 @@
-# Tetris-In-Terminal
+# Tetris In Terminal
 A project I made senior year of high school.
 
 ### How to play
